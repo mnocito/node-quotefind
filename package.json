@@ -1,0 +1,60 @@
+{
+  "_from": "quotefind",
+  "_id": "quotefind@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-friZobliS31xS+r2aRiqIz9jbxI=",
+  "_location": "/quotefind",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "quotefind",
+    "name": "quotefind",
+    "escapedName": "quotefind",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/quotefind/-/quotefind-0.1.0.tgz",
+  "_shasum": "7eb899a1b9624b7d714beaf66918aa233f636f12",
+  "_spec": "quotefind",
+  "_where": "C:\\Users\\keeph\\Desktop",
+  "author": {
+    "name": "Marco Nocito",
+    "email": "mlnocito@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mnocito/node-quotefind/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A module that gets quotes from a given string.",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "homepage": "https://github.com/mnocito/node-quotefind#readme",
+  "keywords": [
+    "quote"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "name": "quotefind",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mnocito/node-quotefind.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.1.0"
+}
